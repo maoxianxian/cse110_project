@@ -4,14 +4,23 @@ TEMP_NAME
 
 ## Team Members:
 Kevin Lim
+
 Aaron (Xuanru) Zhu
+
 Andrew Li
+
 Andy Lum
+
 Chenlin Ye
+
 Diyang He
+
 Shengxiang Zhou
+
 Ziying Liu
+
 Bao Pham
+
 David Tallman
 
 ## Purpose:
